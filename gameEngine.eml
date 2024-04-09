@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/gameEngine"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="lwjgl-assimp-natives-windows" value="project"/>
+		<level name="joml-1.7.0-javadoc" value="project"/>
+	</levels>
+</component>
